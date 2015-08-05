@@ -1,4 +1,4 @@
-## Process:
+### Process:
 
 - takes PAR Springer-Miller group linked reservations report and prints tab-separated list of name/room number combinations
 - this list can then be imported into any label template for printing (e.g. Avery template 5160)
@@ -7,7 +7,7 @@
 
 works only with PAR Springer-Miller Report: 5->A->R [ listed as: Groups/Others -> Linked Reservations -> Linked Reservations ]
 
-## Usage:  
+### Usage:  
 
 `reservations_label.pl <file name> [--splitrooms]`
 
