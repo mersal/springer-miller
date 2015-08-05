@@ -12,7 +12,7 @@ or
 
 or
 
-`<last_name>, <first_name>/<first_name>`
+`<last_name>, <first_name1>/<first_name2>`
 
 or 
 
