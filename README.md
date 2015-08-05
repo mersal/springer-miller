@@ -8,7 +8,7 @@
 
 or
 
-`<last-name1>/<last-name2>, <first-name1>/<last-first>`
+`<last_name1>/<last_name2>, <first_name1>/<first_name2>`
 
 or
 
