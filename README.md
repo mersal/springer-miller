@@ -24,6 +24,6 @@ works only with PAR Springer-Miller Report: 5->A->R [ listed as: Groups/Others -
 
 ### Usage:  
 
-`reservations_label.pl <file name> [--splitrooms]`
+`perl reservations_label.pl <file name> [--splitrooms]`
 
 
